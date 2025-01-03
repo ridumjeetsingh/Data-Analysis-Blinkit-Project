@@ -3,6 +3,7 @@ This Power BI project provides a comprehensive analysis of Blinkit’s sales per
 
 ## Data Sets Used
  - <a href="https://github.com/ridumjeetsingh/Data-Analysis-Dashboard-1/blob/main/bike_share_yr_0.csv"> Excel Data Set 1 </a> 
+ - <a href="https://github.com/ridumjeetsingh/Data-Analysis-Dashboard-1/blob/main/bike_share_yr_0.csv"> Visualisation File of Project </a> 
 
 ## 🌟 Key Highlights:
  1.	Project Objective:
