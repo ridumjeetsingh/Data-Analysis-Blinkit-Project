@@ -2,8 +2,8 @@
 This Power BI project provides a comprehensive analysis of Blinkit’s sales performance, customer satisfaction, and inventory distribution. The analysis aims to derive actionable insights using KPIs and data visualizations.
 
 ## Data Sets Used
- - <a href="https://github.com/ridumjeetsingh/Data-Analysis-Dashboard-1/blob/main/bike_share_yr_0.csv"> Excel Data Set 1 </a> 
- - <a href="https://github.com/ridumjeetsingh/Data-Analysis-Dashboard-1/blob/main/bike_share_yr_0.csv"> Visualisation File of Project </a> 
+ - <a href="https://github.com/ridumjeetsingh/Data-Analysis-Blinkit-Project/blob/main/BlinkIT%20Grocery%20Data.xlsx"> Excel Data Set 1 </a> 
+ - <a href="https://github.com/ridumjeetsingh/Data-Analysis-Blinkit-Project/blob/main/blinkit%20sales%20report.pbix"> Visualisation File of Project </a> 
 
 ## 🌟 Key Highlights:
  1.	Project Objective:
